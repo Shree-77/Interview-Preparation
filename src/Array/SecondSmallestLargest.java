@@ -1,4 +1,4 @@
-package question3;
+package Array;
 
 /**
  * Problem Statement: Given an array, find the second smallest and second-largest element in the array.

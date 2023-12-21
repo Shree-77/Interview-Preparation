@@ -1,4 +1,4 @@
-package question1;
+package Array;
 
 /**
  * Problem Statement: Given an array, we have to find the smallest element in the array
