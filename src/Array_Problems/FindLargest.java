@@ -1,4 +1,4 @@
-package Array;
+package Array_Problems;
 
 /**
  * Problem Statement : Find the Largest Number in the array.

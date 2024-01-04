@@ -1,4 +1,4 @@
-package Array;
+package Array_Problems;
 
 /**
  * Problem Statement: Given an array, we have to find the sum of all the elements in the array.

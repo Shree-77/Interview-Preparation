@@ -1,4 +1,4 @@
-package Array;
+package Array_Problems;
 /**
  * Problem statement: Given an array, we have found the number of occurrences of each element in the array.
  * Input: arr[] = {10,5,10,15,10,5};
