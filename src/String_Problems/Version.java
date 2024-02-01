@@ -16,7 +16,7 @@ package String_Problems;
  * V1 = “1.0.10”
  * V2 = “1.0.27”
  * Output:  v2 is latest
- * Because V1 < V2
+ * Because V1 < v2
  */
 public class Version {
     public static void main(String[] args) {
