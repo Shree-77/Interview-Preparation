@@ -25,7 +25,7 @@ public class PanagramCheck {
             char c = word.charAt(i);
             alphabet[c-'a']++;
         }
-
+        
         for (int j : alphabet) {
             if (j == 0) return false;
         }
