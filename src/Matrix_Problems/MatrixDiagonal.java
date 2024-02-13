@@ -1,4 +1,4 @@
-package Array_Problems;
+package Matrix_Problems;
 
 /**
  * Matrix Diagonal sum
