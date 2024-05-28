@@ -35,17 +35,15 @@ public class Main {
 class Solution {
     void pushZerosToEnd(int[] arr, int n) {
         // code here
-        int index=0;
+        int j=0;
         
         for(int i=0;i<n;i++){
             if(arr[i]!=0){
-                int val
-                arr[index++]=arr[i];
+                arr[j++]=arr[i];
             }
         }
-        
-        for(int i=index;i<n;i++){
-            arr[i]=0;
+        while(j<n){
+            arr[j++]=0;
         }
     }
 }
